@@ -1,0 +1,9 @@
+.material-icons {
+  display: inline-flex !important;
+  vertical-align: top !important;
+  padding-right: 7px;
+}
+
+.size-h2 {
+  font-size: 2.0rem;
+}
